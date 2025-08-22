@@ -1,5 +1,5 @@
 <h2> Olá, me chamo Mateus Costa. Seja bem-vindo ao meu GitHub! 👋 </h2>
-<h3> Discente em Análise e Desenvolvimento de Sistemas | Frontend Developer | Em busca de estágio 📖 </h3> <hr>
+<h4> Discente em Análise e Desenvolvimento de Sistemas | Frontend Developer | Em busca de estágio 📖 </h4> <hr>
 <h2> Algumas das minhas tecnologias e ferramentas de mais familiaridade: </h2>
   <ul>
     <li> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5 </li>
